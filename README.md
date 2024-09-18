@@ -35,4 +35,4 @@ The program also provides feedback for improving the password's strength.
 1. Clone this repository to your local machine.
    
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/prithul21/password_strength_checker.git>
